@@ -42,11 +42,7 @@ I build products at the intersection of design and engineering — from streetwe
 
 ---
 
-## 📊 GitHub Stats
 
-![GK's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkmutisyaa-ui&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gkmutisyaa-ui&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
