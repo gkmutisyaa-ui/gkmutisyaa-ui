@@ -1,85 +1,164 @@
 <div align="center">
-  <h1>Hey, I'm Gabriel Mutisya 👋</h1>
-  
-  **Full-Stack & Web Developer** based in Nairobi, Kenya 🇰🇪
 
-  <p>I build clean, modern, and impactful digital products at the intersection of beautiful design and solid engineering.</p>
+# Gabriel Mutisya 👋  
+### Full-Stack & Web Developer from Kenya 🇰🇪
 
-  <img src="https://img.shields.io/badge/🔭_Currently_Open_to_Work-0ea5e9?style=for-the-badge" alt="Open to Work"/>
-  <img src="https://img.shields.io/badge/📍_Nairobi,_Kenya-22c55e?style=for-the-badge" alt="Location"/>
-  <img src="https://img.shields.io/badge/🎓_BSc_Business_Computing-JKUAT-8b5cf6?style=for-the-badge" alt="Education"/>
+<p>
+I build modern, responsive, and impactful digital experiences that combine clean design with real-world functionality.
+</p>
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;UI%2FUX+Focused+Builder;Creating+Solutions+for+Africa;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/🚀_Open_to_Work-0ea5e9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📍_Nairobi,_Kenya-22c55e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎓_BSc_Business_Computing-8b5cf6?style=for-the-badge" />
+</p>
 
 </div>
 
 ---
 
-### About Me
+# 💫 About Me
 
-I'm a passionate **Full-Stack Web Developer** who loves creating exceptional user experiences. From sleek streetwear e-commerce platforms to practical solutions addressing local challenges, I focus on building products that are not only visually stunning but also highly functional and impactful.
+Hey there 👋  
+I'm Gabriel, a passionate **Full-Stack Web Developer** focused on building products that feel good to use and solve real problems.
 
-I care deeply about **clean UI/UX**, performance, responsiveness, and shipping real-world solutions that work — especially for the Kenyan and African market.
+I enjoy crafting:
+- ⚡ Fast and responsive web apps  
+- 🎨 Clean, modern UI/UX experiences  
+- 🌍 Solutions tailored for the African market  
+- 📱 Mobile-friendly and accessible interfaces  
+- 🛠️ Scalable full-stack applications  
 
----
+Whether it’s a sleek streetwear landing page or a platform helping Kenyans find jobs, I love turning ideas into products people actually enjoy using.
 
-### 🚀 Featured Projects
-
-**PRWL — The Modern Uniform**  
-*A premium streetwear clothing brand landing page*
-
-- Built a high-converting, modern landing page featuring countdown timer, rich product lookbook, and early-access waitlist.
-- Focused on bold branding, smooth animations, and excellent mobile experience.
-- **Live:** [prwl.vercel.app](https://prwl.vercel.app)
-- **Stack:** HTML5 · CSS3 · JavaScript
-
-**Kenya Works**  
-*A job platform connecting Kenyan professionals with local opportunities*
-
-- Developed a tailored job marketplace focused on solving employment challenges in Kenya.
-- Clean interface with job listings and filtering capabilities.
-- Built with performance and accessibility in mind for the local market.
-- **Stack:** HTML5 · CSS3 · JavaScript
+> “Good design gets attention. Great products keep people coming back.”
 
 ---
+
+# 🚀 Featured Projects
+
+## 🧥 PRWL — The Modern Uniform
+### Premium Streetwear Brand Landing Page
+
+A bold and modern landing page designed for a fashion-forward streetwear brand.
+
+### ✨ Features
+- Countdown timer for product drops
+- Interactive product lookbook
+- Early-access waitlist
+- Smooth animations & transitions
+- Fully responsive mobile experience
 
 ### 🛠️ Tech Stack
+`HTML5` · `CSS3` · `JavaScript`
 
-**Frontend**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-
-**Tools & Others**  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
+### 🌐 Live Demo
+👉 https://prwl.vercel.app
 
 ---
 
-### 🎓 Education
+## 💼 Kenya Works
+### Connecting Kenyan Talent with Opportunities
 
-**Bachelor of Science in Business Computing**  
-Jomo Kenyatta University of Agriculture and Technology (JKUAT) — Nairobi, Kenya  
-*2022 – Present* (Expected Graduation: 2026)
+A job marketplace platform focused on helping Kenyan professionals discover local opportunities more easily.
 
----
+### ✨ Features
+- Job listings & filtering
+- Clean and accessible UI
+- Responsive layout
+- Performance-focused frontend
 
-### 🤝 Let's Connect
-
-I'm always excited to collaborate on interesting projects or discuss opportunities in web development.
-
-- 📧 **Email:** [gk.mutisyaa@gmail.com](mailto:gk.mutisyaa@gmail.com)
-- 💼 **LinkedIn:** [Add your LinkedIn link here]
-- 🌐 **Portfolio:** [Add portfolio link if available]
+### 🛠️ Tech Stack
+`HTML5` · `CSS3` · `JavaScript`
 
 ---
 
-**Thanks for visiting my profile!** ✨  
-Feel free to explore my repositories and reach out if you'd like to work together.
+# 🛠️ Tech Stack
+
+## Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+## Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+## Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</p>
 
 ---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&layout=compact)
+
+</div>
+
+---
+
+# 🎓 Education
+
+### Bachelor of Science in Business Computing  
+**Jomo Kenyatta University of Agriculture and Technology (JKUAT)**  
+📍 Nairobi, Kenya  
+🗓️ 2025 – Present *(Expected Graduation: 2028)*
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced React Patterns  
+- Backend Architecture & APIs  
+- Modern UI/UX Systems  
+- Performance Optimization  
+- TypeScript  
+
+---
+
+# 🤝 Let's Connect
+
+I'm always open to:
+- Freelance opportunities
+- Collaborations
+- Startup ideas
+- Full-stack projects
+- Cool tech conversations 😄
+
+<p align="left">
+  <a href="mailto:gk.mutisyaa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### ⚡ “Code. Build. Improve. Repeat.”
+
+Thanks for stopping by!  
+If you like what I’m building, feel free to ⭐ some repositories and connect.
+
+</div>
